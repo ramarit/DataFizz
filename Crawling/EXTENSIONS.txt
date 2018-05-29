@@ -1,0 +1,13 @@
+To extend beyond Amazon.com:
+
+We would need to change selectors to grab and parse correct elements from web page that lead us to product pages.
+
+
+
+To grab products beyond books:
+Depending on the product category/type, we my need to change how we parse each product category page. 
+ 
+Will need to implement a different system to keep track of unique products instead of ISBN-13 which is specific to books.
+Since the URLs are dynamically generated, URLs for same product can change depending on how you get to product. 
+
+Create class constructor for generic product so we can handle all products. 

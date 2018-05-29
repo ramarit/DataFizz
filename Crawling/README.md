@@ -1,4 +1,10 @@
 # Crawling
+## Start
+
+To start:
+<p>npm install</p>
+<p>npm start</p>
+
 
 ## Purpose
 
